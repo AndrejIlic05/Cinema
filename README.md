@@ -2,7 +2,7 @@
 
 Welcome to the **Cinema Web App** repository! This project showcases a simple, interactive online cinema where users can browse movie listings, view details, and add movies to their watch list while tracking their total spending.
 
-![Cinema Web App Screenshot](img/screenshot.png)
+![Cinema Web App Screenshot](cinema.png)
 
 ## 🔗 Live Demo
 
