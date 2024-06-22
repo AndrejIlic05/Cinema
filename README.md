@@ -6,7 +6,7 @@ Welcome to the **Cinema Web App** repository! This project showcases a simple, i
 
 ## 🔗 Live Demo
 
-Try the [Cinema Web App](https://your-username.github.io/cinema-web-app/) now!
+Try the [Cinema Web App](https://andrejilic05.github.io/Cinema/) now!
 
 ## 🚀 Features
 
