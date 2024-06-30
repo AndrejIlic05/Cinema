@@ -19,3 +19,9 @@ Try the [Cinema Web App](https://andrejilic05.github.io/Cinema/) now!
 - **HTML**: Structure and content.
 - **CSS**: Styling and layout.
 - **JavaScript**: Dynamic interaction and functionality.
+
+## 📧 Contact
+For any questions or feedback, feel free to reach out:
+
+- Email: ilicandrej2005@gmail.com
+- GitHub: AndrejIlic05
